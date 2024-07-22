@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 💻 I’m currently learning Web Development at the Spiced Academy Bootcamp
 
 My chaotic self:
-![ThisIsFine]([https://giphy.com/gifs/this-is-fine-9M5jK4GXmD5o1irGrF](https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif))
+![ThisIsFine]([https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif)
