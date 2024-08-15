@@ -20,7 +20,3 @@ Here are some ideas to get you started:
 - 🗺️ I love to travel
 - ⚡ I am an avid reader and can speed read at over 650 WPM
 - 💻 I’m currently learning Web Development at the Spiced Academy Bootcamp
-
-My chaotic self:
-
-![ThisIsFine](https://media.giphy.com/media/9M5jK4GXmD5o1irGrF/giphy.gif)
